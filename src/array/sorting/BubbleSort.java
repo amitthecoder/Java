@@ -56,4 +56,9 @@ Average Case Complexity: O(n2)
 - Space complexity is O(1) because an extra variable is used for swapping.
 - In the optimized bubble sort algorithm, two extra variables are used. Hence, the space complexity will be O(2).
 
+Bubble sort is used if
+
+- complexity does not matter
+- short and simple code is preferred
+
 */
